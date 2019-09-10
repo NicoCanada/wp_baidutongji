@@ -87,7 +87,6 @@ class VIPdaigou_baidutongji{
             })();
         </script>
         <?php 
-         echo "baidu:" . get_option('baidutongji_id');
     }
 }
 
